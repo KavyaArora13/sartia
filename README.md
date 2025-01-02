@@ -40,7 +40,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
 bash
-git clone https://github.com/your-username/sarta.git
+git clone https://github.com/KavyaArora13/sarta.git
 cd sartia-books
 
 2. **Install Dependencies**
