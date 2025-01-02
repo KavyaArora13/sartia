@@ -40,7 +40,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
 bash
-git clone https://github.com/your-username/sartia-books.git
+git clone https://github.com/your-username/sarta.git
 cd sartia-books
 
 2. **Install Dependencies**
@@ -63,15 +63,12 @@ JWT_SECRET=your-jwt-secret
 
 Start the backend:bash
 cd backend
-npm start
+npm run dev
 Start the frontend:bash
 cd ../frontend
-npm start
+npm run dev
 5. **Access the Application**
-Open your browser and navigate to `http://localhost:3000`.
-
-## 🖼️ Project Demo
-[Add screenshots or a demo link here to showcase your project in action.]
+Open your browser and navigate to `http://localhost:5173`.
 
 ## 📂 Project StructureSartia-Books/
 ├── frontend/
@@ -98,5 +95,5 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## 📧 Contact
 For any queries or feedback, reach out to:
-- Your Name: your-email@example.com
-- GitHub: your-username
+- Kavya Arora
+- GitHub: KavyaArora13
